@@ -14,6 +14,6 @@ public class Scannerdemo1 {
         else {
             System.out.println(name + "is a Minor");
         }
-        /
+
     }
 }
